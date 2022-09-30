@@ -9,7 +9,7 @@ I am a student studying computer science.<br>
 - Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 3th Grade
 
 ## 🔭 I’m currently working on ... 
-
+- HUFS PNP (2022.09~)
 ## 📫 Contact to me
 
 <a href="mailto:rozi0901@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
